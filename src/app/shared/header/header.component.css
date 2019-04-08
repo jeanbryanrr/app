@@ -1,0 +1,14 @@
+.header_color_home {
+    background: rgba(174, 45, 101, 1);
+    background: -moz-linear-gradient(top, rgba(174, 45, 101, 1) 0%, rgba(105, 31, 94, 1) 36%, rgba(105, 31, 94, 1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(174, 45, 101, 1)), color-stop(36%, rgba(105, 31, 94, 1)), color-stop(100%, rgba(105, 31, 94, 1)));
+    background: -webkit-linear-gradient(top, rgba(174, 45, 101, 1) 0%, rgba(105, 31, 94, 1) 36%, rgba(105, 31, 94, 1) 100%);
+    background: -o-linear-gradient(top, rgba(174, 45, 101, 1) 0%, rgba(105, 31, 94, 1) 36%, rgba(105, 31, 94, 1) 100%);
+    background: -ms-linear-gradient(top, rgba(174, 45, 101, 1) 0%, rgba(105, 31, 94, 1) 36%, rgba(105, 31, 94, 1) 100%);
+    background: linear-gradient(to bottom, rgba(174, 45, 101, 1) 0%, rgba(105, 31, 94, 1) 36%, rgba(105, 31, 94, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ae2d65', endColorstr='#691f5e', GradientType=0);
+}
+
+.header_color_contactanos {
+    background-color: #ef7f73;
+}
